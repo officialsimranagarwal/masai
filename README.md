@@ -103,7 +103,7 @@
 
 ```bash
 # Clone the repository
-git clone https://github.com/singhalmridul/masai.git
+git clone https://github.com/officialsimranagarwal/masai.git
 cd masai
 
 # Install dependencies
@@ -205,6 +205,25 @@ cd frontend && npm run dev
 ```
 
 ---
+
+## 🏢 Enterprise Deployment
+
+M.A.S. AI is designed to scale with your organization's needs.
+
+- **Horizontal Scaling**: Stateless backend architecture allows for easy horizontal scaling using Kubernetes or Docker Swarm.
+- **Message Queue**: Built-in support for Redis/RabbitMQ to handle high-volume scan requests asynchronously.
+- **Secure by Default**: All sensitive data is encrypted at rest and in transit.
+- **Compliance Ready**: Built-in audit logs and reporting tools to assist with SOC2 and ISO 27001 compliance.
+
+---
+
+## 🔮 Roadmap
+
+We are constantly innovating to stay ahead of emerging threats.
+
+- [ ] **Q3 2026**: Integration with JIRA/Linear for automated ticket creation.
+- [ ] **Q4 2026**: "Self-Healing" mode - auto-generating and applying patches for identified vulnerabilities (in beta).
+- [ ] **Q1 2027**: Mobile Application Security Testing (MAST) module.
 
 ## 📁 Project Structure
 
@@ -312,10 +331,10 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👨‍💻 Author
 
-**Mridul Singhal**
+**Simran Agarwal**
 
-- GitHub: [@singhalmridul](https://github.com/singhalmridul)
-- Email: mridulsinghal11@gmail.com
+- GitHub: [@officialsimranagarwal](https://github.com/officialsimranagarwal)
+- Email: simran@officialsimranagarwal.com
 
 ---
 
@@ -324,8 +343,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ### ⭐ Star this repo if you find it useful!
 
 <p>
-  <img src="https://img.shields.io/github/stars/singhalmridul/masai?style=social" alt="Stars"/>
-  <img src="https://img.shields.io/github/forks/singhalmridul/masai?style=social" alt="Forks"/>
+  <img src="https://img.shields.io/github/stars/officialsimranagarwal/masai?style=social" alt="Stars"/>
+  <img src="https://img.shields.io/github/forks/officialsimranagarwal/masai?style=social" alt="Forks"/>
 </p>
 
 **Built with ❤️ for the security community**
