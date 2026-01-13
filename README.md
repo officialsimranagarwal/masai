@@ -333,8 +333,11 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **Simran Agarwal**
 
-- GitHub: [@officialsimranagarwal](https://github.com/officialsimranagarwal)
-- Email: simran@officialsimranagarwal.com
+- 🌐 [simranagarwal.in](https://simranagarwal.in)
+- 💼 [LinkedIn](https://www.linkedin.com/in/simran-agarwal-54751b191/)
+- 🐙 [GitHub](https://github.com/officialsimranagarwal)
+- 📸 [Instagram](https://www.instagram.com/_simranagarwal/)
+- 📧 [simransgarg01@gmail.com](mailto:simransgarg01@gmail.com)
 
 ---
 
